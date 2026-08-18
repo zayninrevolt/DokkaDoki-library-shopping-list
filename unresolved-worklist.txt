@@ -5,151 +5,73 @@ Generated 2026-08-17
 PART 1 - UNVERIFIED (external count could not be confirmed)
 What I need from you: the correct ENGLISH total volume count (or a link)
 ----------------------------------------------------------------------
-  1. 7th Garden, Vol. 8
-     Owns: 8 | Issue: ongoing, volume count unverified
-     -> ANSWER: 8 vols (link: https://en.wikipedia.org/wiki/7thGarden)
-
-  2. Birds of Shangri-La, Vol.2
-     Owns: 2 | Issue: ongoing, volume count unverified
-     -> ANSWER: 3 vols (link: https://www.goodreads.com/series/320579-birds-of-shangri-la)
-
-  3. Boogiepop Doesn't Laugh, Vol.1
-     Owns: 1 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: 2 vols (link: https://www.goodreads.com/search?q=Boogiepop+Doesn%27t+Laugh&qid=)
-
-  4. Bungo Stray Dogs, Vol.2
-     Owns: 2 | Issue: ongoing, volume count unverified
-     -> ANSWER: 27 vols (link: https://bungostraydogs.fandom.com/wiki/Bungo_Stray_Dogs_Wiki)
-
-  5. Candy Color Paradox, Vol.1
-     Owns: 1 | Issue: status Finished but volume count unverified
-     -> ANSWER: 6 vols (link: https://en.wikipedia.org/wiki/Candy_Color_Paradox)
-
-  6. Ceres: Celestial Legend, Vol.2
-     Owns: 2 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: 14 vols (link: https://en.wikipedia.org/wiki/Ceres,_Celestial_Legend)
-
-  7. Danganronpa: The Animation, Vol.4
-     Owns: 4 | Issue: external count 2 < owned 4 (likely wrong match)
-     -> ANSWER: 4 vols (link: https://danganronpa.fandom.com/wiki/Danganronpa:_The_Animation_(manga))
-
-  8. DARK MOON: The BLOOD ALTAR, Vol.1
-     Owns: 1 | Issue: status Finished but volume count unverified
-     -> ANSWER: 3 vols (link: https://originalstoriesbyhybe.fandom.com/wiki/DARK_MOON:_THE_BLOOD_ALTAR_(Webtoon))
-
-  9. Escape Journey, Vol.3
-     Owns: 3 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: 3 vols (link: https://yaoi.fandom.com/wiki/Escape_Journey)
-
- 10. Faeries' Landing, Vol.4
-     Owns: 4 | Issue: cancelled
-     -> ANSWER: 19 vols (link: https://manga.fandom.com/wiki/Faeries%27_Landing)
-
- 11. FANGS, Vol.2
-     Owns: 2 | Issue: ongoing, volume count unverified
-     -> ANSWER: 4 vols (link: https://yaoi.fandom.com/wiki/Fangs)
-
- 12. Finder, Vol.2
-     Owns: 2 | Issue: status Finished but volume count unverified
-     -> ANSWER: 15 vols (link: https://en.wikipedia.org/wiki/Finder_(manga))
-
- 13. Firefly Wedding, Vol. 1
-     Owns: 1 | Issue: status Finished but volume count unverified
-     -> ANSWER: 12 vols (link: https://en.wikipedia.org/wiki/Firefly_Wedding)
-
- 14. Gachiakuta, Vol.1
-     Owns: 1 | Issue: ongoing, volume count unverified
-     -> ANSWER: 19 vols (link: https://en.wikipedia.org/wiki/Gachiakuta)
-
- 15. Great Jahy Will Not Be Defeated! Vol.1
+Great Jahy Will Not Be Defeated! Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-
- 16. Idiots don’t catch colds, Vol.7
+Idiots don’t catch colds, Vol.7
      Owns: 7 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-
- 17. Junjo Romantica, Vol.1
+Junjo Romantica, Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-
- 18. Kare Kano: His and Her Circumstances, Vol.4
+Kare Kano: His and Her Circumstances, Vol.4
      Owns: 4 | Issue: external count 1 < owned 4 (likely wrong match)
      -> ANSWER: ___ vols (link: ___)
-
- 19. Love Hina, Vol.14
+Love Hina, Vol.14
      Owns: 14 | Issue: external count 2 < owned 14 (likely wrong match)
      -> ANSWER: ___ vols (link: ___)
-
- 20. Love Is an Illusion! Vol.1
+Love Is an Illusion! Vol.1
      Owns: 1 | Issue: status Finished but volume count unverified
      -> ANSWER: ___ vols (link: ___)
-
- 21. Mao, Vol.1
+Mao, Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-
- 22. Moon and Sun, Vol.2
+Moon and Sun, Vol.2
      Owns: 2 | Issue: possible complete but weak evidence (sim None, vols 2)
      -> ANSWER: ___ vols (link: ___)
-
- 23. Nisekoi: False Love, Vol.4
+Nisekoi: False Love, Vol.4
      Owns: 4 | Issue: status Finished but volume count unverified
      -> ANSWER: ___ vols (link: ___)
-
- 24. No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol.9
+No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol.9
      Owns: 9 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-
- 25. Othello, Vol.1
+Othello, Vol.1
      Owns: 1 | Issue: status Finished but volume count unverified
      -> ANSWER: ___ vols (link: ___)
-
- 26. Pita-Ten, Vol.8
+Pita-Ten, Vol.8
      Owns: 8 | Issue: external count 3 < owned 8 (likely wrong match)
      -> ANSWER: ___ vols (link: ___)
-
- 27. Rebirth, Vol.1
+Rebirth, Vol.1
      Owns: 1 | Issue: possible complete but weak evidence (sim None, vols 1)
      -> ANSWER: ___ vols (link: ___)
-
- 28. Shuriken and Pleats, Vol.2
+Shuriken and Pleats, Vol.2
      Owns: 2 | Issue: possible complete but weak evidence (sim None, vols 2)
      -> ANSWER: ___ vols (link: ___)
-
- 29. Strawberry Panic, Vol.2
+Strawberry Panic, Vol.2
      Owns: 2 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-
- 30. Summer of You, Vol.1
+Summer of You, Vol.1
      Owns: 1 | Issue: possible complete but weak evidence (sim None, vols 1)
      -> ANSWER: ___ vols (link: ___)
-
- 31. Tsubasa, Vol.3
+Tsubasa, Vol.3
      Owns: 3 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-
- 32. Tsukuyomi - Moon Phase, Vol.2
+Tsukuyomi - Moon Phase, Vol.2
      Owns: 2 | Issue: external count 1 < owned 2 (likely wrong match)
      -> ANSWER: ___ vols (link: ___)
-
- 33. Vampire Kisses: Blood Relatives, Vol.3
+Vampire Kisses: Blood Relatives, Vol.3
      Owns: 3 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-
- 34. Villains Are Destined to Die, Vol.8
+Villains Are Destined to Die, Vol.8
      Owns: 8 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-
- 35. Wandance, Vol.2
+Wandance, Vol.2
      Owns: 2 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-
- 36. Way of the Househusband, Vol.4
+Way of the Househusband, Vol.4
      Owns: 4 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-
- 37. World's End Harem, Vol.8
+World's End Harem, Vol.8
      Owns: 8 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
 
@@ -157,74 +79,3 @@ What I need from you: the correct ENGLISH total volume count (or a link)
 PART 2 - NO VOLUME NUMBER PARSED (title format unknown)
 What I need from you: confirm the series + total volumes, or a link
 ----------------------------------------------------------------------
-  1. Title in Libib: Blood: The Last Vampire 2002
-     Series field: blood: the last vampire | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
-  2. Title in Libib: Clover
-     Series field: clover | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
-  3. Title in Libib: Cute Devil
-     Series field: cute devil | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
-  4. Title in Libib: Flower That Seems to Truly Dance
-     Series field: flower that seems to truly dance | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
-  5. Title in Libib: Fourth Generation Head: Tatsuyuki Oyamato
-     Series field: fourth generation head | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
-  6. Title in Libib: Golden Sparkle
-     Series field: golden sparkle | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
-  7. Title in Libib: I Didn't Mean to Fall in Love
-     Series field: i didnt mean to fall in love | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
-  8. Title in Libib: Jackass!
-     Series field: jackass! | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
-  9. Title in Libib: Kindred Spirits on the Roof
-     Series field: kindred spirits on the roof | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
- 10. Title in Libib: Phantom
-     Series field: phantom | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
- 11. Title in Libib: Rurouni Kenshin, Vol.1 (1-3)
-     Series field: rurouni kenshin | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
- 12. Title in Libib: Scarlet
-     Series field: scarlet | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
- 13. Title in Libib: Seikai Trilogy, The Volume 2: Banner Of The Stars 1: v. 2 (The Seikai Trilogy)
-     Series field: seikai trilogy, the | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
- 14. Title in Libib: Seven Days: Monday-Sunday
-     Series field: seven days | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
- 15. Title in Libib: Sick
-     Series field: sick | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
- 16. Title in Libib: Takopi's Original Sin
-     Series field: takopi's original sin | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
- 17. Title in Libib: There Are Things I Can't Tell You
-     Series field: there are things i cant tell you | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)
-
- 18. Title in Libib: Voiceful
-     Series field: voiceful | items: 1
-     -> ANSWER: series=___ total ___ vols (link: ___)

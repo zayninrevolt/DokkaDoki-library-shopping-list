@@ -5,73 +5,96 @@ Generated 2026-08-17
 PART 1 - UNVERIFIED (external count could not be confirmed)
 What I need from you: the correct ENGLISH total volume count (or a link)
 ----------------------------------------------------------------------
-Great Jahy Will Not Be Defeated! Vol.1
+
+ 15. Great Jahy Will Not Be Defeated! Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-Idiots don’t catch colds, Vol.7
+
+ 16. Idiots don’t catch colds, Vol.7
      Owns: 7 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-Junjo Romantica, Vol.1
+
+ 17. Junjo Romantica, Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-Kare Kano: His and Her Circumstances, Vol.4
+
+ 18. Kare Kano: His and Her Circumstances, Vol.4
      Owns: 4 | Issue: external count 1 < owned 4 (likely wrong match)
      -> ANSWER: ___ vols (link: ___)
-Love Hina, Vol.14
+
+ 19. Love Hina, Vol.14
      Owns: 14 | Issue: external count 2 < owned 14 (likely wrong match)
      -> ANSWER: ___ vols (link: ___)
-Love Is an Illusion! Vol.1
+
+ 20. Love Is an Illusion! Vol.1
      Owns: 1 | Issue: status Finished but volume count unverified
      -> ANSWER: ___ vols (link: ___)
-Mao, Vol.1
+
+ 21. Mao, Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-Moon and Sun, Vol.2
+
+ 22. Moon and Sun, Vol.2
      Owns: 2 | Issue: possible complete but weak evidence (sim None, vols 2)
      -> ANSWER: ___ vols (link: ___)
-Nisekoi: False Love, Vol.4
+
+ 23. Nisekoi: False Love, Vol.4
      Owns: 4 | Issue: status Finished but volume count unverified
      -> ANSWER: ___ vols (link: ___)
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol.9
+
+ 24. No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol.9
      Owns: 9 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-Othello, Vol.1
+
+ 25. Othello, Vol.1
      Owns: 1 | Issue: status Finished but volume count unverified
      -> ANSWER: ___ vols (link: ___)
-Pita-Ten, Vol.8
+
+ 26. Pita-Ten, Vol.8
      Owns: 8 | Issue: external count 3 < owned 8 (likely wrong match)
      -> ANSWER: ___ vols (link: ___)
-Rebirth, Vol.1
+
+ 27. Rebirth, Vol.1
      Owns: 1 | Issue: possible complete but weak evidence (sim None, vols 1)
      -> ANSWER: ___ vols (link: ___)
-Shuriken and Pleats, Vol.2
+
+ 28. Shuriken and Pleats, Vol.2
      Owns: 2 | Issue: possible complete but weak evidence (sim None, vols 2)
      -> ANSWER: ___ vols (link: ___)
-Strawberry Panic, Vol.2
+
+ 29. Strawberry Panic, Vol.2
      Owns: 2 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-Summer of You, Vol.1
+
+ 30. Summer of You, Vol.1
      Owns: 1 | Issue: possible complete but weak evidence (sim None, vols 1)
      -> ANSWER: ___ vols (link: ___)
-Tsubasa, Vol.3
+
+ 31. Tsubasa, Vol.3
      Owns: 3 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-Tsukuyomi - Moon Phase, Vol.2
+
+ 32. Tsukuyomi - Moon Phase, Vol.2
      Owns: 2 | Issue: external count 1 < owned 2 (likely wrong match)
      -> ANSWER: ___ vols (link: ___)
-Vampire Kisses: Blood Relatives, Vol.3
+
+ 33. Vampire Kisses: Blood Relatives, Vol.3
      Owns: 3 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
-Villains Are Destined to Die, Vol.8
+
+ 34. Villains Are Destined to Die, Vol.8
      Owns: 8 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-Wandance, Vol.2
+
+ 35. Wandance, Vol.2
      Owns: 2 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-Way of the Househusband, Vol.4
+
+ 36. Way of the Househusband, Vol.4
      Owns: 4 | Issue: ongoing, volume count unverified
      -> ANSWER: ___ vols (link: ___)
-World's End Harem, Vol.8
+
+ 37. World's End Harem, Vol.8
      Owns: 8 | Issue: google_books: HTTP Error 429: Too Many Requests
      -> ANSWER: ___ vols (link: ___)
 

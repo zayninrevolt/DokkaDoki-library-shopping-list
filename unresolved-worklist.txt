@@ -8,95 +8,95 @@ What I need from you: the correct ENGLISH total volume count (or a link)
 
  15. Great Jahy Will Not Be Defeated! Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 12 vols (link: https://en.wikipedia.org/wiki/The_Great_Jahy_Will_Not_Be_Defeated!)
 
  16. Idiots don’t catch colds, Vol.7
      Owns: 7 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 7 vols (link: https://beta.thestorygraph.com/series/1314543)
 
  17. Junjo Romantica, Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 22 vols (link: https://junjouromantica.fandom.com/wiki/Junjou_Romantica)
 
  18. Kare Kano: His and Her Circumstances, Vol.4
      Owns: 4 | Issue: external count 1 < owned 4 (likely wrong match)
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 21 vols (link: https://animanga.fandom.com/wiki/Kare_Kano)
 
  19. Love Hina, Vol.14
      Owns: 14 | Issue: external count 2 < owned 14 (likely wrong match)
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 14 vols (link: https://en.wikipedia.org/wiki/Love_Hina)
 
  20. Love Is an Illusion! Vol.1
      Owns: 1 | Issue: status Finished but volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 5 vols (link: https://yaoi.fandom.com/wiki/Love_Is_an_Illusion!)
 
  21. Mao, Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 30 vols (link: https://en.wikipedia.org/wiki/Mao_(manga))
 
  22. Moon and Sun, Vol.2
      Owns: 2 | Issue: possible complete but weak evidence (sim None, vols 2)
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 2 vols (link: none)
 
  23. Nisekoi: False Love, Vol.4
      Owns: 4 | Issue: status Finished but volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 25 vols (link: https://en.wikipedia.org/wiki/Nisekoi)
 
  24. No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol.9
      Owns: 9 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 28 vols (link: https://en.wikipedia.org/wiki/No_Matter_How_I_Look_at_It,_It%27s_You_Guys%27_Fault_I%27m_Not_Popular!)
 
  25. Othello, Vol.1
      Owns: 1 | Issue: status Finished but volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 7 vols (link: https://en.wikipedia.org/wiki/Othello_(Satomi_Ikezawa_manga))
 
  26. Pita-Ten, Vol.8
      Owns: 8 | Issue: external count 3 < owned 8 (likely wrong match)
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 8 vols (link: https://en.wikipedia.org/wiki/Pita-Ten)
 
  27. Rebirth, Vol.1
      Owns: 1 | Issue: possible complete but weak evidence (sim None, vols 1)
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 26 vols (link: https://en.wikipedia.org/wiki/Rebirth_(manhwa))
 
  28. Shuriken and Pleats, Vol.2
      Owns: 2 | Issue: possible complete but weak evidence (sim None, vols 2)
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 2 vols (link: https://calgary.bibliocommons.com/v2/record/S95C1235060)
 
  29. Strawberry Panic, Vol.2
      Owns: 2 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 2 vols (link: https://en.wikipedia.org/wiki/Strawberry_Panic%21)
 
  30. Summer of You, Vol.1
      Owns: 1 | Issue: possible complete but weak evidence (sim None, vols 1)
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 1 vols (link: https://yaoi.fandom.com/wiki/Kimi_wa_Natsu_no_Naka)
 
  31. Tsubasa, Vol.3
      Owns: 3 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 3 vols (link: https://en.wikipedia.org/wiki/Tsubasa:_Reservoir_Chronicle)
 
  32. Tsukuyomi - Moon Phase, Vol.2
      Owns: 2 | Issue: external count 1 < owned 2 (likely wrong match)
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 16 vols (link: https://en.wikipedia.org/wiki/Tsukuyomi:_Moon_Phase)
 
  33. Vampire Kisses: Blood Relatives, Vol.3
      Owns: 3 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 3 vols (link: https://vampirekisses.fandom.com/wiki/Blood_Relatives:_Volume_III)
 
  34. Villains Are Destined to Die, Vol.8
      Owns: 8 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 9 vols (link: https://en.wikipedia.org/wiki/Villains_Are_Destined_to_Die)
 
  35. Wandance, Vol.2
      Owns: 2 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 15 vols (link: https://en.wikipedia.org/wiki/Wandance)
 
  36. Way of the Househusband, Vol.4
      Owns: 4 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 17 vols (link: https://en.wikipedia.org/wiki/The_Way_of_the_Househusband)
 
  37. World's End Harem, Vol.8
      Owns: 8 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 18 vols (link: https://en.wikipedia.org/wiki/World%27s_End_Harem)
 
 
 PART 2 - NO VOLUME NUMBER PARSED (title format unknown)

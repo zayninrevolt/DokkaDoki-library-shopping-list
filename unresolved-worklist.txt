@@ -1,85 +1,13 @@
 DOKKADOKI LIBRARY - UNRESOLVED SERIES WORKLIST
-Generated 2026-08-17
+Generated 2026-08-18
 ======================================================================
 
-PART 1 - UNVERIFIED (external count could not be confirmed)
-What I need from you: the correct ENGLISH total volume count (or a link)
-----------------------------------------------------------------------
-(All 23 verified - thank you!)
+ALL SERIES RESOLVED - thank you, Zayn! 🎉
 
+Every series in the library now has a verified volume count.
+The shopping lists in this repo reflect the full completion picture.
 
-PART 2 - NO VOLUME NUMBER PARSED (title format unknown)
-What I need from you: confirm the series + total volumes, or a link
-----------------------------------------------------------------------
-  1. Title in Libib: Blood: The Last Vampire 2002
-     Series field: blood: the last vampire | items: 1
-     -> ANSWER: 1 vols (link: https://en.wikipedia.org/wiki/Blood:_The_Last_Vampire)
-
-  2. Title in Libib: Clover
-     Series field: clover | items: 1
-     -> ANSWER: 4 vols (link: https://en.wikipedia.org/wiki/Clover_(Clamp_manga))
-
-  3. Title in Libib: Cute Devil
-     Series field: cute devil | items: 1
-     -> ANSWER: 1 vols (link: https://yaoi.fandom.com/wiki/Kawaii_Akuma)
-
-  4. Title in Libib: Flower That Seems to Truly Dance
-     Series field: flower that seems to truly dance | items: 1
-     -> ANSWER: 1 vols (link: none)
-
-  5. Title in Libib: Fourth Generation Head: Tatsuyuki Oyamato
-     Series field: fourth generation head | items: 1
-     -> ANSWER: 1 vols (link: https://en.wikipedia.org/wiki/Fourth_Generation_Head:_Tatsuyuki_Oyamato)
-
-  6. Title in Libib: Golden Sparkle
-     Series field: golden sparkle | items: 1
-     -> ANSWER: 1 vols (link: none)
-
-  7. Title in Libib: I Didn't Mean to Fall in Love
-     Series field: i didnt mean to fall in love | items: 1
-     -> ANSWER: 1 vols (link: https://yaoi.fandom.com/wiki/Koi_wo_Suru_Tsumori_wa_Nakatta)
-
-  8. Title in Libib: Jackass!
-     Series field: jackass! | items: 1
-     -> ANSWER: 1 vols (link: https://www.goodreads.com/book/show/35080212-jackass)
-
-  9. Title in Libib: Kindred Spirits on the Roof
-     Series field: kindred spirits on the roof | items: 1
-     -> ANSWER: 2 vols (link: https://en.wikipedia.org/wiki/Kindred_Spirits_on_the_Roof)
-
- 10. Title in Libib: Phantom
-     Series field: phantom | items: 1
-     -> ANSWER: 5 vols (link: none)
-
- 11. Title in Libib: Rurouni Kenshin, Vol.1 (1-3) 2008-2010
-     Series field: rurouni kenshin | items: 1
-     -> ANSWER: 9 vols (link: ___)
-
- 12. Title in Libib: Scarlet
-     Series field: scarlet | items: 1
-     -> ANSWER: 1 vols (link: https://yaoi.fandom.com/wiki/Scarlet)
-
- 13. Title in Libib: Seikai Trilogy, The Volume 2: Banner Of The Stars 1: v. 2 (The Seikai Trilogy)
-     Series field: seikai trilogy, the | items: 1
-     -> ANSWER: 3 vols (link: https://mangadex.org/title/462aa3bf-d2cb-43ef-88e1-435334424fb2/seikai-trilogy)
-  I renamed these 2 on libib to match the title, 
-
- 14. Title in Libib: Seven Days: Monday-Sunday
-     Series field: seven days | items: 1
-     -> ANSWER: 1 vols (link: https://en.wikipedia.org/wiki/Seven_Days_(manga))
-
- 15. Title in Libib: Sick
-     Series field: sick | items: 1
-     -> ANSWER: 1 vols (link: https://yaoi.fandom.com/wiki/Sick)
-
- 16. Title in Libib: Takopi's Original Sin
-     Series field: takopi's original sin | items: 1
-     -> ANSWER: 2 vols (link: https://takopis-original-sin.fandom.com/wiki/Takopi%27s_Original_Sin)
-
- 17. Title in Libib: There Are Things I Can't Tell You
-     Series field: there are things i cant tell you | items: 1
-     -> ANSWER: 1 vols (link: none)
-
- 18. Title in Libib: Voiceful
-     Series field: voiceful | items: 1
-     -> ANSWER: 1 vols (link: https://en.wikipedia.org/wiki/Voiceful)
+Rurouni Kenshin note: collecting the 2008-2010 omnibus edition (9 books),
+not the 2017 re-release (also 9 books).
+Seikai Trilogy: renamed in Libib to "Volume 1: Crest of the Stars" /
+"Volume 2: Banner of the Stars" - 3 volumes total.

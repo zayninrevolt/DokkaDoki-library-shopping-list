@@ -118,6 +118,9 @@ Chibi Vampire, Vol. 12
 Chibi Vampire, Vol. 13
 Chibi Vampire, Vol. 14
 Chrono Code, Vol. 2
+Clover, Vol. 2
+Clover, Vol. 3
+Clover, Vol. 4
 Comic Party, Vol. 5
 Corpse Party: Blood Covered, Vol. 2
 Cowboy Bebop, Vol. 2
@@ -262,6 +265,7 @@ Killing Stalking: Deluxe Edition (Deluxe), Vol. 5
 Killing Stalking: Deluxe Edition (Deluxe), Vol. 6
 Killing Stalking: Deluxe Edition (Deluxe), Vol. 7
 Killing Stalking: Deluxe Edition (Deluxe), Vol. 8
+Kindred Spirits on the Roof, Vol. 2
 Kingdom Hearts II, Vol. 2
 Kingdom Hearts II, Vol. 3
 Kingdom Hearts II, Vol. 4
@@ -326,6 +330,10 @@ Parasyte, Vol. 9
 Parasyte, Vol. 10
 Parasyte, Vol. 11
 Parasyte, Vol. 12
+Phantom, Vol. 2
+Phantom, Vol. 3
+Phantom, Vol. 4
+Phantom, Vol. 5
 PhD: Phantasy Degree, Vol. 3
 PhD: Phantasy Degree, Vol. 4
 PhD: Phantasy Degree, Vol. 5
@@ -381,11 +389,18 @@ Rozen Maiden, Vol. 7
 Rozen Maiden, Vol. 8
 Rozen Maiden, Vol. 9
 Rozen Maiden, Vol. 10
+Rurouni Kenshin (Omnibus 2008), Vol. 2
+Rurouni Kenshin (Omnibus 2008), Vol. 3
+Rurouni Kenshin (Omnibus 2008), Vol. 4
+Rurouni Kenshin (Omnibus 2008), Vol. 5
+Rurouni Kenshin (Omnibus 2008), Vol. 6
+Rurouni Kenshin (Omnibus 2008), Vol. 7
+Rurouni Kenshin (Omnibus 2008), Vol. 8
+Rurouni Kenshin (Omnibus 2008), Vol. 9
 Samurai 8, Vol. 2
 Samurai 8, Vol. 3
 Samurai 8, Vol. 4
 Samurai 8, Vol. 5
-Seikai Trilogy, Vol. 2
 Seikai Trilogy, Vol. 3
 Suikoden III, Vol. 2
 Suikoden III, Vol. 3
@@ -396,6 +411,7 @@ Suikoden III, Vol. 7
 Suikoden III, Vol. 8
 Sword of the Dark Ones, Vol. 2
 Sword of the Dark Ones, Vol. 3
+Takopi's Original Sin, Vol. 2
 Tarot Cafe, Vol. 2
 Tarot Cafe, Vol. 3
 Tarot Cafe, Vol. 4

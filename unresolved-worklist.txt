@@ -7,59 +7,59 @@ What I need from you: the correct ENGLISH total volume count (or a link)
 ----------------------------------------------------------------------
   1. 7th Garden, Vol. 8
      Owns: 8 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 8 vols (link: https://en.wikipedia.org/wiki/7thGarden)
 
   2. Birds of Shangri-La, Vol.2
      Owns: 2 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 3 vols (link: https://www.goodreads.com/series/320579-birds-of-shangri-la)
 
   3. Boogiepop Doesn't Laugh, Vol.1
      Owns: 1 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 2 vols (link: https://www.goodreads.com/search?q=Boogiepop+Doesn%27t+Laugh&qid=)
 
   4. Bungo Stray Dogs, Vol.2
      Owns: 2 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 27 vols (link: https://bungostraydogs.fandom.com/wiki/Bungo_Stray_Dogs_Wiki)
 
   5. Candy Color Paradox, Vol.1
      Owns: 1 | Issue: status Finished but volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 6 vols (link: https://en.wikipedia.org/wiki/Candy_Color_Paradox)
 
   6. Ceres: Celestial Legend, Vol.2
      Owns: 2 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 14 vols (link: https://en.wikipedia.org/wiki/Ceres,_Celestial_Legend)
 
   7. Danganronpa: The Animation, Vol.4
      Owns: 4 | Issue: external count 2 < owned 4 (likely wrong match)
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 4 vols (link: https://danganronpa.fandom.com/wiki/Danganronpa:_The_Animation_(manga))
 
   8. DARK MOON: The BLOOD ALTAR, Vol.1
      Owns: 1 | Issue: status Finished but volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 3 vols (link: https://originalstoriesbyhybe.fandom.com/wiki/DARK_MOON:_THE_BLOOD_ALTAR_(Webtoon))
 
   9. Escape Journey, Vol.3
      Owns: 3 | Issue: google_books: HTTP Error 429: Too Many Requests
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 3 vols (link: https://yaoi.fandom.com/wiki/Escape_Journey)
 
  10. Faeries' Landing, Vol.4
-     Owns: 4 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     Owns: 4 | Issue: cancelled
+     -> ANSWER: 19 vols (link: https://manga.fandom.com/wiki/Faeries%27_Landing)
 
  11. FANGS, Vol.2
      Owns: 2 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 4 vols (link: https://yaoi.fandom.com/wiki/Fangs)
 
  12. Finder, Vol.2
      Owns: 2 | Issue: status Finished but volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 15 vols (link: https://en.wikipedia.org/wiki/Finder_(manga))
 
  13. Firefly Wedding, Vol. 1
      Owns: 1 | Issue: status Finished but volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 12 vols (link: https://en.wikipedia.org/wiki/Firefly_Wedding)
 
  14. Gachiakuta, Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified
-     -> ANSWER: ___ vols (link: ___)
+     -> ANSWER: 19 vols (link: https://en.wikipedia.org/wiki/Gachiakuta)
 
  15. Great Jahy Will Not Be Defeated! Vol.1
      Owns: 1 | Issue: ongoing, volume count unverified

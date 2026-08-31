@@ -100,39 +100,6 @@ Battle Vixens, Vol. 21
 Battle Vixens, Vol. 22
 Battle Vixens, Vol. 23
 Battle Vixens, Vol. 24
-Black Butler, Vol. 3
-Black Butler, Vol. 4
-Black Butler, Vol. 5
-Black Butler, Vol. 6
-Black Butler, Vol. 7
-Black Butler, Vol. 8
-Black Butler, Vol. 9
-Black Butler, Vol. 10
-Black Butler, Vol. 11
-Black Butler, Vol. 12
-Black Butler, Vol. 13
-Black Butler, Vol. 14
-Black Butler, Vol. 15
-Black Butler, Vol. 16
-Black Butler, Vol. 17
-Black Butler, Vol. 18
-Black Butler, Vol. 19
-Black Butler, Vol. 20
-Black Butler, Vol. 21
-Black Butler, Vol. 22
-Black Butler, Vol. 23
-Black Butler, Vol. 24
-Black Butler, Vol. 25
-Black Butler, Vol. 26
-Black Butler, Vol. 27
-Black Butler, Vol. 28
-Black Butler, Vol. 29
-Black Butler, Vol. 30
-Black Butler, Vol. 31
-Black Butler, Vol. 32
-Black Butler, Vol. 33
-Black Butler, Vol. 34
-Black Butler, Vol. 35
 Black God, Vol. 2
 Black God, Vol. 3
 Black God, Vol. 4
@@ -213,16 +180,6 @@ Bleach, Vol. 71
 Bleach, Vol. 72
 Bleach, Vol. 73
 Bleach, Vol. 74
-Blood Alone, Vol. 4
-Blood Alone, Vol. 5
-Blood Alone, Vol. 6
-Blood Alone, Vol. 7
-Blood Alone, Vol. 8
-Blood Alone, Vol. 9
-Blood Alone, Vol. 10
-Blood Alone, Vol. 11
-Blood Alone, Vol. 12
-Blood Alone, Vol. 13
 Blood Sucker: Legend of Zipangu, Vol. 2
 Blood Sucker: Legend of Zipangu, Vol. 3
 Blood Sucker: Legend of Zipangu, Vol. 4
@@ -246,6 +203,7 @@ Blue Exorcist, Vol. 30
 Blue Exorcist, Vol. 31
 Blue Exorcist, Vol. 32
 Blue Exorcist, Vol. 33
+Blue Exorcist, Vol. 34
 Bungo Stray Dogs, Vol. 3
 Bungo Stray Dogs, Vol. 4
 Bungo Stray Dogs, Vol. 5
@@ -271,6 +229,7 @@ Bungo Stray Dogs, Vol. 24
 Bungo Stray Dogs, Vol. 25
 Bungo Stray Dogs, Vol. 26
 Bungo Stray Dogs, Vol. 27
+Bungo Stray Dogs, Vol. 28
 Cardcaptor Sakura, Vol. 2
 Cardcaptor Sakura, Vol. 3
 Cardcaptor Sakura, Vol. 4
@@ -282,18 +241,6 @@ Cardcaptor Sakura, Vol. 9
 Cardcaptor Sakura, Vol. 10
 Cardcaptor Sakura, Vol. 11
 Cardcaptor Sakura, Vol. 12
-Ceres: Celestial Legend, Vol. 3
-Ceres: Celestial Legend, Vol. 4
-Ceres: Celestial Legend, Vol. 5
-Ceres: Celestial Legend, Vol. 6
-Ceres: Celestial Legend, Vol. 7
-Ceres: Celestial Legend, Vol. 8
-Ceres: Celestial Legend, Vol. 9
-Ceres: Celestial Legend, Vol. 10
-Ceres: Celestial Legend, Vol. 11
-Ceres: Celestial Legend, Vol. 12
-Ceres: Celestial Legend, Vol. 13
-Ceres: Celestial Legend, Vol. 14
 Chainsaw Man, Vol. 13
 Chainsaw Man, Vol. 14
 Chainsaw Man, Vol. 15
@@ -306,28 +253,6 @@ Chainsaw Man, Vol. 21
 Chainsaw Man, Vol. 22
 Chainsaw Man, Vol. 23
 Chainsaw Man, Vol. 24
-D.Gray-Man, Vol. 8
-D.Gray-Man, Vol. 9
-D.Gray-Man, Vol. 10
-D.Gray-Man, Vol. 11
-D.Gray-Man, Vol. 12
-D.Gray-Man, Vol. 13
-D.Gray-Man, Vol. 14
-D.Gray-Man, Vol. 15
-D.Gray-Man, Vol. 16
-D.Gray-Man, Vol. 17
-D.Gray-Man, Vol. 18
-D.Gray-Man, Vol. 19
-D.Gray-Man, Vol. 20
-D.Gray-Man, Vol. 21
-D.Gray-Man, Vol. 22
-D.Gray-Man, Vol. 23
-D.Gray-Man, Vol. 24
-D.Gray-Man, Vol. 25
-D.Gray-Man, Vol. 26
-D.Gray-Man, Vol. 27
-D.Gray-Man, Vol. 28
-D.Gray-Man, Vol. 29
 D.N.Angel, Vol. 10
 D.N.Angel, Vol. 11
 D.N.Angel, Vol. 12
@@ -352,20 +277,6 @@ Dance in the Vampire Bund, Vol. 11
 Dance in the Vampire Bund, Vol. 12
 Dance in the Vampire Bund, Vol. 13
 Dance in the Vampire Bund, Vol. 14
-Demon Slayer: Kimetsu No Yaiba, Vol. 10
-Demon Slayer: Kimetsu No Yaiba, Vol. 11
-Demon Slayer: Kimetsu No Yaiba, Vol. 12
-Demon Slayer: Kimetsu No Yaiba, Vol. 13
-Demon Slayer: Kimetsu No Yaiba, Vol. 14
-Demon Slayer: Kimetsu No Yaiba, Vol. 15
-Demon Slayer: Kimetsu No Yaiba, Vol. 16
-Demon Slayer: Kimetsu No Yaiba, Vol. 17
-Demon Slayer: Kimetsu No Yaiba, Vol. 18
-Demon Slayer: Kimetsu No Yaiba, Vol. 19
-Demon Slayer: Kimetsu No Yaiba, Vol. 20
-Demon Slayer: Kimetsu No Yaiba, Vol. 21
-Demon Slayer: Kimetsu No Yaiba, Vol. 22
-Demon Slayer: Kimetsu No Yaiba, Vol. 23
 Devils' Line, Vol. 2
 Devils' Line, Vol. 3
 Devils' Line, Vol. 4
@@ -405,118 +316,17 @@ Excel Saga, Vol. 24
 Excel Saga, Vol. 25
 Excel Saga, Vol. 26
 Excel Saga, Vol. 27
-Faeries' Landing, Vol. 5
-Faeries' Landing, Vol. 6
-Faeries' Landing, Vol. 7
-Faeries' Landing, Vol. 8
-Faeries' Landing, Vol. 9
-Faeries' Landing, Vol. 10
-Faeries' Landing, Vol. 11
-Faeries' Landing, Vol. 12
-Faeries' Landing, Vol. 13
-Faeries' Landing, Vol. 14
-Faeries' Landing, Vol. 15
-Faeries' Landing, Vol. 16
-Faeries' Landing, Vol. 17
-Faeries' Landing, Vol. 18
-Faeries' Landing, Vol. 19
-Finder, Vol. 3
-Finder, Vol. 4
-Finder, Vol. 5
-Finder, Vol. 6
-Finder, Vol. 7
-Finder, Vol. 8
-Finder, Vol. 9
-Finder, Vol. 10
-Finder, Vol. 11
-Finder, Vol. 12
-Finder, Vol. 13
-Finder, Vol. 14
-Finder, Vol. 15
-Firefly Wedding, Vol. 2
-Firefly Wedding, Vol. 3
-Firefly Wedding, Vol. 4
-Firefly Wedding, Vol. 5
-Firefly Wedding, Vol. 6
-Firefly Wedding, Vol. 7
-Firefly Wedding, Vol. 8
-Firefly Wedding, Vol. 9
-Firefly Wedding, Vol. 10
-Firefly Wedding, Vol. 11
-Firefly Wedding, Vol. 12
-Flowers of Evil, Vol. 2
-Flowers of Evil, Vol. 3
-Flowers of Evil, Vol. 4
-Flowers of Evil, Vol. 5
-Flowers of Evil, Vol. 6
-Flowers of Evil, Vol. 7
-Flowers of Evil, Vol. 8
-Flowers of Evil, Vol. 9
-Flowers of Evil, Vol. 10
-Flowers of Evil, Vol. 11
-Frieren: Beyond Journey's End, Vol. 4
-Frieren: Beyond Journey's End, Vol. 5
-Frieren: Beyond Journey's End, Vol. 6
-Frieren: Beyond Journey's End, Vol. 7
-Frieren: Beyond Journey's End, Vol. 8
-Frieren: Beyond Journey's End, Vol. 9
-Frieren: Beyond Journey's End, Vol. 10
-Frieren: Beyond Journey's End, Vol. 11
-Frieren: Beyond Journey's End, Vol. 12
-Frieren: Beyond Journey's End, Vol. 13
-Frieren: Beyond Journey's End, Vol. 14
-Frieren: Beyond Journey's End, Vol. 15
-Gachiakuta, Vol. 2
-Gachiakuta, Vol. 3
-Gachiakuta, Vol. 4
-Gachiakuta, Vol. 5
-Gachiakuta, Vol. 6
-Gachiakuta, Vol. 7
-Gachiakuta, Vol. 8
-Gachiakuta, Vol. 9
-Gachiakuta, Vol. 10
-Gachiakuta, Vol. 11
-Gachiakuta, Vol. 12
-Gachiakuta, Vol. 13
-Gachiakuta, Vol. 14
-Gachiakuta, Vol. 15
-Gachiakuta, Vol. 16
-Gachiakuta, Vol. 17
-Gachiakuta, Vol. 18
-Gachiakuta, Vol. 19
-Great Jahy Will Not Be Defeated!, Vol. 2
-Great Jahy Will Not Be Defeated!, Vol. 3
-Great Jahy Will Not Be Defeated!, Vol. 4
-Great Jahy Will Not Be Defeated!, Vol. 5
-Great Jahy Will Not Be Defeated!, Vol. 6
-Great Jahy Will Not Be Defeated!, Vol. 7
-Great Jahy Will Not Be Defeated!, Vol. 8
-Great Jahy Will Not Be Defeated!, Vol. 9
-Great Jahy Will Not Be Defeated!, Vol. 10
-Great Jahy Will Not Be Defeated!, Vol. 11
-Great Jahy Will Not Be Defeated!, Vol. 12
-Hana-Kimi, Vol. 2
-Hana-Kimi, Vol. 3
-Hana-Kimi, Vol. 4
-Hana-Kimi, Vol. 5
-Hana-Kimi, Vol. 6
-Hana-Kimi, Vol. 7
-Hana-Kimi, Vol. 8
-Hana-Kimi, Vol. 9
-Hana-Kimi, Vol. 10
-Hana-Kimi, Vol. 11
-Hana-Kimi, Vol. 12
-Hana-Kimi, Vol. 13
-Hana-Kimi, Vol. 14
-Hana-Kimi, Vol. 15
-Hana-Kimi, Vol. 16
-Hana-Kimi, Vol. 17
-Hana-Kimi, Vol. 18
-Hana-Kimi, Vol. 19
-Hana-Kimi, Vol. 20
-Hana-Kimi, Vol. 21
-Hana-Kimi, Vol. 22
-Hana-Kimi, Vol. 23
+Full Metal Panic! Overload, Vol. 2
+Full Metal Panic! Overload, Vol. 3
+Full Metal Panic! Overload, Vol. 4
+Full Metal Panic! Overload, Vol. 5
+Full Metal Panic! Overload, Vol. 6
+Full Metal Panic! Overload, Vol. 7
+Full Metal Panic! Overload, Vol. 8
+Full Metal Panic! Overload, Vol. 9
+Full Metal Panic! Overload, Vol. 10
+Full Metal Panic! Overload, Vol. 11
+Full Metal Panic! Overload, Vol. 12
 iD_eNTITY, Vol. 2
 iD_eNTITY, Vol. 3
 iD_eNTITY, Vol. 4
@@ -582,27 +392,6 @@ Jujutsu Kaisen, Vol. 27
 Jujutsu Kaisen, Vol. 28
 Jujutsu Kaisen, Vol. 29
 Jujutsu Kaisen, Vol. 30
-Junjo Romantica, Vol. 2
-Junjo Romantica, Vol. 3
-Junjo Romantica, Vol. 4
-Junjo Romantica, Vol. 5
-Junjo Romantica, Vol. 6
-Junjo Romantica, Vol. 7
-Junjo Romantica, Vol. 8
-Junjo Romantica, Vol. 9
-Junjo Romantica, Vol. 10
-Junjo Romantica, Vol. 11
-Junjo Romantica, Vol. 12
-Junjo Romantica, Vol. 13
-Junjo Romantica, Vol. 14
-Junjo Romantica, Vol. 15
-Junjo Romantica, Vol. 16
-Junjo Romantica, Vol. 17
-Junjo Romantica, Vol. 18
-Junjo Romantica, Vol. 19
-Junjo Romantica, Vol. 20
-Junjo Romantica, Vol. 21
-Junjo Romantica, Vol. 22
 Kaiju No. 8, Vol. 6
 Kaiju No. 8, Vol. 7
 Kaiju No. 8, Vol. 8
@@ -685,21 +474,6 @@ King of Hell., Vol. 52
 King of Hell., Vol. 53
 King of Hell., Vol. 54
 King of Hell., Vol. 55
-Komi Can't Communicate, Vol. 23
-Komi Can't Communicate, Vol. 24
-Komi Can't Communicate, Vol. 25
-Komi Can't Communicate, Vol. 26
-Komi Can't Communicate, Vol. 27
-Komi Can't Communicate, Vol. 28
-Komi Can't Communicate, Vol. 29
-Komi Can't Communicate, Vol. 30
-Komi Can't Communicate, Vol. 31
-Komi Can't Communicate, Vol. 32
-Komi Can't Communicate, Vol. 33
-Komi Can't Communicate, Vol. 34
-Komi Can't Communicate, Vol. 35
-Komi Can't Communicate, Vol. 36
-Komi Can't Communicate, Vol. 37
 Life, Vol. 10
 Life, Vol. 11
 Life, Vol. 12
@@ -728,35 +502,6 @@ Maid-sama! (2-in-1 Edition) (2-in-1), Vol. 15
 Maid-sama! (2-in-1 Edition) (2-in-1), Vol. 16
 Maid-sama! (2-in-1 Edition) (2-in-1), Vol. 17
 Maid-sama! (2-in-1 Edition) (2-in-1), Vol. 18
-Mao, Vol. 2
-Mao, Vol. 3
-Mao, Vol. 4
-Mao, Vol. 5
-Mao, Vol. 6
-Mao, Vol. 7
-Mao, Vol. 8
-Mao, Vol. 9
-Mao, Vol. 10
-Mao, Vol. 11
-Mao, Vol. 12
-Mao, Vol. 13
-Mao, Vol. 14
-Mao, Vol. 15
-Mao, Vol. 16
-Mao, Vol. 17
-Mao, Vol. 18
-Mao, Vol. 19
-Mao, Vol. 20
-Mao, Vol. 21
-Mao, Vol. 22
-Mao, Vol. 23
-Mao, Vol. 24
-Mao, Vol. 25
-Mao, Vol. 26
-Mao, Vol. 27
-Mao, Vol. 28
-Mao, Vol. 29
-Mao, Vol. 30
 My Hero Academia, Vol. 19
 My Hero Academia, Vol. 20
 My Hero Academia, Vol. 21
@@ -798,72 +543,6 @@ My Youth Romantic Comedy Is Wrong, As I Expected @ comic, Vol. 19
 My Youth Romantic Comedy Is Wrong, As I Expected @ comic, Vol. 20
 My Youth Romantic Comedy Is Wrong, As I Expected @ comic, Vol. 21
 My Youth Romantic Comedy Is Wrong, As I Expected @ comic, Vol. 22
-Naruto, Vol. 22
-Naruto, Vol. 23
-Naruto, Vol. 24
-Naruto, Vol. 25
-Naruto, Vol. 26
-Naruto, Vol. 27
-Naruto, Vol. 28
-Naruto, Vol. 29
-Naruto, Vol. 30
-Naruto, Vol. 31
-Naruto, Vol. 32
-Naruto, Vol. 33
-Naruto, Vol. 34
-Naruto, Vol. 35
-Naruto, Vol. 36
-Naruto, Vol. 37
-Naruto, Vol. 38
-Naruto, Vol. 39
-Naruto, Vol. 40
-Naruto, Vol. 41
-Naruto, Vol. 42
-Naruto, Vol. 43
-Naruto, Vol. 44
-Naruto, Vol. 45
-Naruto, Vol. 46
-Naruto, Vol. 47
-Naruto, Vol. 48
-Naruto, Vol. 49
-Naruto, Vol. 50
-Naruto, Vol. 51
-Naruto, Vol. 52
-Naruto, Vol. 53
-Naruto, Vol. 54
-Naruto, Vol. 55
-Naruto, Vol. 56
-Naruto, Vol. 57
-Naruto, Vol. 58
-Naruto, Vol. 59
-Naruto, Vol. 60
-Naruto, Vol. 61
-Naruto, Vol. 62
-Naruto, Vol. 63
-Naruto, Vol. 64
-Naruto, Vol. 65
-Naruto, Vol. 66
-Naruto, Vol. 67
-Naruto, Vol. 68
-Naruto, Vol. 69
-Naruto, Vol. 70
-Naruto, Vol. 71
-Naruto, Vol. 72
-Negima!: Magister Negi Magi, Vol. 24
-Negima!: Magister Negi Magi, Vol. 25
-Negima!: Magister Negi Magi, Vol. 26
-Negima!: Magister Negi Magi, Vol. 27
-Negima!: Magister Negi Magi, Vol. 28
-Negima!: Magister Negi Magi, Vol. 29
-Negima!: Magister Negi Magi, Vol. 30
-Negima!: Magister Negi Magi, Vol. 31
-Negima!: Magister Negi Magi, Vol. 32
-Negima!: Magister Negi Magi, Vol. 33
-Negima!: Magister Negi Magi, Vol. 34
-Negima!: Magister Negi Magi, Vol. 35
-Negima!: Magister Negi Magi, Vol. 36
-Negima!: Magister Negi Magi, Vol. 37
-Negima!: Magister Negi Magi, Vol. 38
 Neon Genesis Evangelion: Angelic Days, Vol. 4
 Neon Genesis Evangelion: Angelic Days, Vol. 5
 Neon Genesis Evangelion: Angelic Days, Vol. 6
@@ -875,50 +554,6 @@ Neon Genesis Evangelion: Angelic Days, Vol. 11
 Neon Genesis Evangelion: Angelic Days, Vol. 12
 Neon Genesis Evangelion: Angelic Days, Vol. 13
 Neon Genesis Evangelion: Angelic Days, Vol. 14
-Neon Genesis Evangelion: Angelic Days, Vol. 15
-Neon Genesis Evangelion: Angelic Days, Vol. 16
-Neon Genesis Evangelion: Angelic Days, Vol. 17
-Neon Genesis Evangelion: Angelic Days, Vol. 18
-Nisekoi: False Love, Vol. 5
-Nisekoi: False Love, Vol. 6
-Nisekoi: False Love, Vol. 7
-Nisekoi: False Love, Vol. 8
-Nisekoi: False Love, Vol. 9
-Nisekoi: False Love, Vol. 10
-Nisekoi: False Love, Vol. 11
-Nisekoi: False Love, Vol. 12
-Nisekoi: False Love, Vol. 13
-Nisekoi: False Love, Vol. 14
-Nisekoi: False Love, Vol. 15
-Nisekoi: False Love, Vol. 16
-Nisekoi: False Love, Vol. 17
-Nisekoi: False Love, Vol. 18
-Nisekoi: False Love, Vol. 19
-Nisekoi: False Love, Vol. 20
-Nisekoi: False Love, Vol. 21
-Nisekoi: False Love, Vol. 22
-Nisekoi: False Love, Vol. 23
-Nisekoi: False Love, Vol. 24
-Nisekoi: False Love, Vol. 25
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 10
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 11
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 12
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 13
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 14
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 15
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 16
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 17
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 18
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 19
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 20
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 21
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 22
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 23
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 24
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 25
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 26
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 27
-No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!, Vol. 28
 Oh My Goddess!, Vol. 3
 Oh My Goddess!, Vol. 4
 Oh My Goddess!, Vol. 5
@@ -965,41 +600,6 @@ Oh My Goddess!, Vol. 45
 Oh My Goddess!, Vol. 46
 Oh My Goddess!, Vol. 47
 Oh My Goddess!, Vol. 48
-One-Punch Man, Vol. 3
-One-Punch Man, Vol. 4
-One-Punch Man, Vol. 5
-One-Punch Man, Vol. 6
-One-Punch Man, Vol. 7
-One-Punch Man, Vol. 8
-One-Punch Man, Vol. 9
-One-Punch Man, Vol. 10
-One-Punch Man, Vol. 11
-One-Punch Man, Vol. 12
-One-Punch Man, Vol. 13
-One-Punch Man, Vol. 14
-One-Punch Man, Vol. 15
-One-Punch Man, Vol. 16
-One-Punch Man, Vol. 17
-One-Punch Man, Vol. 18
-One-Punch Man, Vol. 19
-One-Punch Man, Vol. 20
-One-Punch Man, Vol. 21
-One-Punch Man, Vol. 22
-One-Punch Man, Vol. 23
-One-Punch Man, Vol. 24
-One-Punch Man, Vol. 25
-One-Punch Man, Vol. 26
-One-Punch Man, Vol. 27
-One-Punch Man, Vol. 28
-One-Punch Man, Vol. 29
-One-Punch Man, Vol. 30
-One-Punch Man, Vol. 31
-One-Punch Man, Vol. 32
-One-Punch Man, Vol. 33
-One-Punch Man, Vol. 34
-One-Punch Man, Vol. 35
-One-Punch Man, Vol. 36
-One-Punch Man, Vol. 37
 [Oshi No Ko], Vol. 5
 [Oshi No Ko], Vol. 6
 [Oshi No Ko], Vol. 7
@@ -1046,69 +646,6 @@ Overlord, Vol. 16
 Overlord, Vol. 17
 Overlord, Vol. 18
 Overlord, Vol. 19
-Pokemon Adventures, Vol. 2
-Pokemon Adventures, Vol. 3
-Pokemon Adventures, Vol. 4
-Pokemon Adventures, Vol. 5
-Pokemon Adventures, Vol. 6
-Pokemon Adventures, Vol. 7
-Pokemon Adventures, Vol. 8
-Pokemon Adventures, Vol. 9
-Pokemon Adventures, Vol. 10
-Pokemon Adventures, Vol. 11
-Pokemon Adventures, Vol. 12
-Pokemon Adventures, Vol. 13
-Pokemon Adventures, Vol. 14
-Pokemon Adventures, Vol. 15
-Pokemon Adventures, Vol. 16
-Pokemon Adventures, Vol. 17
-Pokemon Adventures, Vol. 18
-Pokemon Adventures, Vol. 19
-Pokemon Adventures, Vol. 20
-Pokemon Adventures, Vol. 21
-Pokemon Adventures, Vol. 22
-Pokemon Adventures, Vol. 23
-Pokemon Adventures, Vol. 24
-Pokemon Adventures, Vol. 25
-Pokemon Adventures, Vol. 26
-Pokemon Adventures, Vol. 27
-Pokemon Adventures, Vol. 28
-Pokemon Adventures, Vol. 29
-Pokemon Adventures, Vol. 30
-Pokemon Adventures, Vol. 31
-Pokemon Adventures, Vol. 32
-Pokemon Adventures, Vol. 33
-Pokemon Adventures, Vol. 34
-Pokemon Adventures, Vol. 35
-Pokemon Adventures, Vol. 36
-Pokemon Adventures, Vol. 37
-Pokemon Adventures, Vol. 38
-Pokemon Adventures, Vol. 39
-Pokemon Adventures, Vol. 40
-Pokemon Adventures, Vol. 41
-Pokemon Adventures, Vol. 42
-Pokemon Adventures, Vol. 43
-Pokemon Adventures, Vol. 44
-Pokemon Adventures, Vol. 45
-Pokemon Adventures, Vol. 46
-Pokemon Adventures, Vol. 47
-Pokemon Adventures, Vol. 48
-Pokemon Adventures, Vol. 49
-Pokemon Adventures, Vol. 50
-Pokemon Adventures, Vol. 51
-Pokemon Adventures, Vol. 52
-Pokemon Adventures, Vol. 53
-Pokemon Adventures, Vol. 54
-Pokemon Adventures, Vol. 55
-Pokemon Adventures, Vol. 56
-Pokemon Adventures, Vol. 57
-Pokemon Adventures, Vol. 58
-Pokemon Adventures, Vol. 59
-Pokemon Adventures, Vol. 60
-Pokemon Adventures, Vol. 61
-Pokemon Adventures, Vol. 62
-Pokemon Adventures, Vol. 63
-Pokemon Adventures, Vol. 64
 Psychic Academy, Vol. 2
 Psychic Academy, Vol. 3
 Psychic Academy, Vol. 4
@@ -1119,31 +656,33 @@ Psychic Academy, Vol. 8
 Psychic Academy, Vol. 9
 Psychic Academy, Vol. 10
 Psychic Academy, Vol. 11
-Rebirth, Vol. 2
-Rebirth, Vol. 3
-Rebirth, Vol. 4
-Rebirth, Vol. 5
-Rebirth, Vol. 6
-Rebirth, Vol. 7
-Rebirth, Vol. 8
-Rebirth, Vol. 9
-Rebirth, Vol. 10
-Rebirth, Vol. 11
-Rebirth, Vol. 12
-Rebirth, Vol. 13
-Rebirth, Vol. 14
-Rebirth, Vol. 15
-Rebirth, Vol. 16
-Rebirth, Vol. 17
-Rebirth, Vol. 18
-Rebirth, Vol. 19
-Rebirth, Vol. 20
-Rebirth, Vol. 21
-Rebirth, Vol. 22
-Rebirth, Vol. 23
-Rebirth, Vol. 24
-Rebirth, Vol. 25
-Rebirth, Vol. 26
+Rurouni Kenshin ((1-3)), Vol. 2
+Rurouni Kenshin ((1-3)), Vol. 3
+Rurouni Kenshin ((1-3)), Vol. 4
+Rurouni Kenshin ((1-3)), Vol. 5
+Rurouni Kenshin ((1-3)), Vol. 6
+Rurouni Kenshin ((1-3)), Vol. 7
+Rurouni Kenshin ((1-3)), Vol. 8
+Rurouni Kenshin ((1-3)), Vol. 9
+Rurouni Kenshin ((1-3)), Vol. 10
+Rurouni Kenshin ((1-3)), Vol. 11
+Rurouni Kenshin ((1-3)), Vol. 12
+Rurouni Kenshin ((1-3)), Vol. 13
+Rurouni Kenshin ((1-3)), Vol. 14
+Rurouni Kenshin ((1-3)), Vol. 15
+Rurouni Kenshin ((1-3)), Vol. 16
+Rurouni Kenshin ((1-3)), Vol. 17
+Rurouni Kenshin ((1-3)), Vol. 18
+Rurouni Kenshin ((1-3)), Vol. 19
+Rurouni Kenshin ((1-3)), Vol. 20
+Rurouni Kenshin ((1-3)), Vol. 21
+Rurouni Kenshin ((1-3)), Vol. 22
+Rurouni Kenshin ((1-3)), Vol. 23
+Rurouni Kenshin ((1-3)), Vol. 24
+Rurouni Kenshin ((1-3)), Vol. 25
+Rurouni Kenshin ((1-3)), Vol. 26
+Rurouni Kenshin ((1-3)), Vol. 27
+Rurouni Kenshin ((1-3)), Vol. 28
 School Rumble, Vol. 6
 School Rumble, Vol. 7
 School Rumble, Vol. 8
@@ -1252,40 +791,6 @@ Seven Deadly Sins Omnibus (Omnibus), Vol. 38
 Seven Deadly Sins Omnibus (Omnibus), Vol. 39
 Seven Deadly Sins Omnibus (Omnibus), Vol. 40
 Seven Deadly Sins Omnibus (Omnibus), Vol. 41
-Shaman King, Vol. 2
-Shaman King, Vol. 3
-Shaman King, Vol. 4
-Shaman King, Vol. 5
-Shaman King, Vol. 6
-Shaman King, Vol. 7
-Shaman King, Vol. 8
-Shaman King, Vol. 9
-Shaman King, Vol. 10
-Shaman King, Vol. 11
-Shaman King, Vol. 12
-Shaman King, Vol. 13
-Shaman King, Vol. 14
-Shaman King, Vol. 15
-Shaman King, Vol. 16
-Shaman King, Vol. 17
-Shaman King, Vol. 18
-Shaman King, Vol. 19
-Shaman King, Vol. 20
-Shaman King, Vol. 21
-Shaman King, Vol. 22
-Shaman King, Vol. 23
-Shaman King, Vol. 24
-Shaman King, Vol. 25
-Shaman King, Vol. 26
-Shaman King, Vol. 27
-Shaman King, Vol. 28
-Shaman King, Vol. 29
-Shaman King, Vol. 30
-Shaman King, Vol. 31
-Shaman King, Vol. 32
-Shaman King, Vol. 33
-Shaman King, Vol. 34
-Shaman King, Vol. 35
 Solo Leveling, Vol. 2
 Solo Leveling, Vol. 3
 Solo Leveling, Vol. 4
@@ -1324,20 +829,6 @@ Soul Eater, Vol. 22
 Soul Eater, Vol. 23
 Soul Eater, Vol. 24
 Soul Eater, Vol. 25
-Spy X Family, Vol. 4
-Spy X Family, Vol. 5
-Spy X Family, Vol. 6
-Spy X Family, Vol. 7
-Spy X Family, Vol. 8
-Spy X Family, Vol. 9
-Spy X Family, Vol. 10
-Spy X Family, Vol. 11
-Spy X Family, Vol. 12
-Spy X Family, Vol. 13
-Spy X Family, Vol. 14
-Spy X Family, Vol. 15
-Spy X Family, Vol. 16
-Spy X Family, Vol. 17
 Strawberry 100%, Vol. 2
 Strawberry 100%, Vol. 3
 Strawberry 100%, Vol. 4
@@ -1356,31 +847,6 @@ Strawberry 100%, Vol. 16
 Strawberry 100%, Vol. 17
 Strawberry 100%, Vol. 18
 Strawberry 100%, Vol. 19
-Toilet-Bound Hanako-kun, Vol. 15
-Toilet-Bound Hanako-kun, Vol. 16
-Toilet-Bound Hanako-kun, Vol. 17
-Toilet-Bound Hanako-kun, Vol. 18
-Toilet-Bound Hanako-kun, Vol. 19
-Toilet-Bound Hanako-kun, Vol. 20
-Toilet-Bound Hanako-kun, Vol. 21
-Toilet-Bound Hanako-kun, Vol. 22
-Toilet-Bound Hanako-kun, Vol. 23
-Toilet-Bound Hanako-kun, Vol. 24
-Toilet-Bound Hanako-kun, Vol. 25
-Tsukuyomi - Moon Phase, Vol. 3
-Tsukuyomi - Moon Phase, Vol. 4
-Tsukuyomi - Moon Phase, Vol. 5
-Tsukuyomi - Moon Phase, Vol. 6
-Tsukuyomi - Moon Phase, Vol. 7
-Tsukuyomi - Moon Phase, Vol. 8
-Tsukuyomi - Moon Phase, Vol. 9
-Tsukuyomi - Moon Phase, Vol. 10
-Tsukuyomi - Moon Phase, Vol. 11
-Tsukuyomi - Moon Phase, Vol. 12
-Tsukuyomi - Moon Phase, Vol. 13
-Tsukuyomi - Moon Phase, Vol. 14
-Tsukuyomi - Moon Phase, Vol. 15
-Tsukuyomi - Moon Phase, Vol. 16
 Vampire Dormitory, Vol. 2
 Vampire Dormitory, Vol. 3
 Vampire Dormitory, Vol. 4
@@ -1394,42 +860,6 @@ Vampire Dormitory, Vol. 11
 Vampire Dormitory, Vol. 12
 Vampire Dormitory, Vol. 13
 Vampire Dormitory, Vol. 14
-Wandance, Vol. 3
-Wandance, Vol. 4
-Wandance, Vol. 5
-Wandance, Vol. 6
-Wandance, Vol. 7
-Wandance, Vol. 8
-Wandance, Vol. 9
-Wandance, Vol. 10
-Wandance, Vol. 11
-Wandance, Vol. 12
-Wandance, Vol. 13
-Wandance, Vol. 14
-Wandance, Vol. 15
-Way of the Househusband, Vol. 5
-Way of the Househusband, Vol. 6
-Way of the Househusband, Vol. 7
-Way of the Househusband, Vol. 8
-Way of the Househusband, Vol. 9
-Way of the Househusband, Vol. 10
-Way of the Househusband, Vol. 11
-Way of the Househusband, Vol. 12
-Way of the Househusband, Vol. 13
-Way of the Househusband, Vol. 14
-Way of the Househusband, Vol. 15
-Way of the Househusband, Vol. 16
-Way of the Househusband, Vol. 17
-World's End Harem, Vol. 9
-World's End Harem, Vol. 10
-World's End Harem, Vol. 11
-World's End Harem, Vol. 12
-World's End Harem, Vol. 13
-World's End Harem, Vol. 14
-World's End Harem, Vol. 15
-World's End Harem, Vol. 16
-World's End Harem, Vol. 17
-World's End Harem, Vol. 18
 Yakuza Lover, Vol. 2
 Yakuza Lover, Vol. 3
 Yakuza Lover, Vol. 4

@@ -42,6 +42,8 @@ Cardcaptor Sakura, Vol. 13
 Cardcaptor Sakura, Vol. 14
 Cardcaptor Sakura, Vol. 15
 Cardcaptor Sakura, Vol. 16
+Chainsaw Man, Vol. 20
+Chainsaw Man, Vol. 21
 Full Metal Panic! Overload, Vol. 2
 Full Metal Panic! Overload, Vol. 3
 Full Metal Panic! Overload, Vol. 4
@@ -85,6 +87,8 @@ Jujutsu Kaisen, Vol. 27
 Jujutsu Kaisen, Vol. 28
 Jujutsu Kaisen, Vol. 29
 Jujutsu Kaisen, Vol. 30
+Kaiju No. 8, Vol. 15
+Kaiju No. 8, Vol. 16
 My Hero Academia, Vol. 19
 My Hero Academia, Vol. 20
 My Hero Academia, Vol. 21
@@ -153,6 +157,7 @@ Rurouni Kenshin ((1-3)), Vol. 25
 Rurouni Kenshin ((1-3)), Vol. 26
 Rurouni Kenshin ((1-3)), Vol. 27
 Rurouni Kenshin ((1-3)), Vol. 28
+Seraph of the End, Vol. 34
 Sensual Phrase, Vol. 2
 Sensual Phrase, Vol. 3
 Sensual Phrase, Vol. 4

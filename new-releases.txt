@@ -1,1 +1,33 @@
-Yona of the Dawn, Vol. 46 released July 7, 2026 - cafe missing this volume (newly released June-July 2025 in Japan).
+Weekly new-release findings (checked 2026-09-07; library scraped 2026-09-07)
+
+Newly released and missing from the cafe:
+- Chainsaw Man, Vol. 20 - released March 3, 2026
+  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-20-0/product/8744/paperback
+- Chainsaw Man, Vol. 21 - released June 2, 2026
+  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-21-0/product/8857/paperback
+- Kaiju No. 8, Vol. 15 - released March 17, 2026
+  Source: https://www.viz.com/manga-books/manga/kaiju-no-8-volume-15-0/product/8759/paperback
+- Kaiju No. 8, Vol. 16 - released September 1, 2026 (final volume)
+  Source: https://www.viz.com/manga-books/manga/kaiju-no-8-volume-16-0/product/8992/paperback
+- Blue Exorcist, Vol. 32 - released April 7, 2026; already present in needs-10-plus-books.txt
+  Source: https://www.viz.com/manga-books/manga/blue-exorcist-volume-32-0/product/8781/paperback
+- Seraph of the End, Vol. 34 - released June 16, 2026
+  Source: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-34-0/product/8880
+
+New releases coming soon:
+- Chainsaw Man, Vol. 22 - October 13, 2026
+  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031/paperback
+- One-Punch Man, Vol. 34 - September 15, 2026 (spot-check of an unverified series)
+  Source: https://www.viz.com/manga-books/manga/one-punch-man-volume-34-0/product/8996/paperback
+- Blue Exorcist, Vol. 33 - December 1, 2026
+  Source: https://www.viz.com/manga-books/manga/blue-exorcist-volume-33-0/product/9098/paperback
+- Firefly Wedding, Vol. 8 - October 13, 2026 (spot-check of an unverified series)
+  Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040/paperback
+- Seraph of the End, Vol. 35 - November 10, 2026
+  Source: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077/paperback
+
+Spot-check notes:
+- One-Punch Man: VIZ lists Vol. 34 and Vols. 1-34 in its catalogue; the cafe owns Vols. 1-2.
+  Source: https://www.viz.com/manga-books/manga/one-punch-man/all
+- Firefly Wedding: VIZ lists Vols. 1-8 in its catalogue; Vol. 8 is on pre-order.
+  Source: https://www.viz.com/manga-books/manga/firefly-wedding/all

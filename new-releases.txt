@@ -1,42 +1,32 @@
-Weekly new-release findings (checked 2026-09-21; library scraped 2026-09-21)
+Weekly new-release findings (checked 2026-09-28; library scraped 2026-09-28)
 
 Library status:
-- 900 items total: 0 new and 0 removed since the 2026-09-14 scan.
-- 108 verified missing-volume series/items and 43 unverified series.
-- The scan reports no series with gaps inside the owned range.
-- Newly released volumes confirmed below were already present in the generated shopping lists, except One-Punch Man Vol. 34, which has been added to needs-10-plus-books.txt.
+- 900 items total: 0 new and 0 removed since the 2026-09-28 02:32 UTC scan.
+- 110 verified missing-volume series/items and 42 unverified series.
+- No series has missing volumes inside the owned range.
+- Largest series in the scan: Yona of the Dawn (46 owned volumes), followed by Fruits Basket and Negima! (23 each), Komi Can't Communicate (22), Blue Exorcist and Dr. STONE (21 each), and Naruto (21).
 
 Newly released and missing from the cafe:
-- One-Punch Man, Vol. 34 - released September 15, 2026; cafe owns Vols. 1-2. Added to needs-10-plus-books.txt.
+- One-Punch Man, Vol. 34 - released September 15, 2026; cafe owns Vols. 1-2. Added to needs-10-plus-books.txt after a VIZ spot-check of this unverified scan entry.
   Source: https://www.viz.com/manga-books/manga/one-punch-man-volume-34-0/product/8996/paperback
-- Seraph of the End, Vol. 34 - released June 16, 2026; already present in needs-10-plus-books.txt.
-  Source: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-34-0/product/8880
-- Chainsaw Man, Vol. 21 - released June 2, 2026; already present in needs-10-plus-books.txt.
-  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-21-0/product/8857/paperback
-- Kaiju No. 8, Vol. 16 - released September 1, 2026; final volume; already present in needs-10-plus-books.txt.
+- Kaiju No. 8, Vol. 16 - released September 1, 2026; final volume; cafe owns Vols. 1-5 and the volume is already in needs-10-plus-books.txt.
   Source: https://www.viz.com/manga-books/manga/kaiju-no-8-volume-16-0/product/8992
-
-Recent-window releases retained from the previous check:
-- Chainsaw Man, Vol. 20 - released March 3, 2026; already present in needs-10-plus-books.txt.
-  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-20-0/product/8744/paperback
-- Kaiju No. 8, Vol. 15 - released March 17, 2026; already present in needs-10-plus-books.txt.
-  Source: https://www.viz.com/manga-books/manga/kaiju-no-8-volume-15-0/product/8759/paperback
+- Seraph of the End, Vol. 34 - released June 16, 2026; cafe owns Vol. 1 and Vol. 34 is already in needs-10-plus-books.txt.
+  Source: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-34-0/product/8880
+- Chainsaw Man, Vol. 21 - released June 2, 2026; cafe owns Vols. 1-12 and Vol. 21 is already in needs-10-plus-books.txt.
+  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-21-0/product/8857/paperback
 
 New releases coming soon:
-- Firefly Wedding, Vol. 8 - October 13, 2026; spot-check of an unverified series, cafe owns Vol. 1.
+- Firefly Wedding, Vol. 8 - October 13, 2026; cafe owns Vol. 1 and Vol. 8 is already in needs-10-plus-books.txt.
   Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040/paperback
-- Chainsaw Man, Vol. 22 - October 13, 2026; already present in needs-10-plus-books.txt.
+- Chainsaw Man, Vol. 22 - October 13, 2026; already within the scan's current missing range, Vols. 13-24.
   Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031
 - Seraph of the End, Vol. 35 - November 10, 2026; already within the scan's current missing range, Vols. 2-37.
   Source: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077
-- Blue Exorcist, Vol. 33 - December 1, 2026; current library data includes Vols. 1-21, but this series was not in the scan's verified missing list.
+- Blue Exorcist, Vol. 33 - December 1, 2026; cafe owns Vols. 1-21 and the volume is already in needs-10-plus-books.txt.
   Source: https://www.viz.com/manga-books/manga/blue-exorcist-volume-33-0/product/9098
 
-Spot-check notes:
-- Seraph of the End is the largest ongoing series in the verified missing list by the scan's current external total: cafe owns Vol. 1 and the scan lists Vols. 2-37 as missing. VIZ confirms Vol. 34 released and Vol. 35 is on pre-order.
-  Sources: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-34-0/product/8880
-           https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077
-- One-Punch Man: VIZ confirms Vol. 34 released; the cafe owns Vols. 1-2. This was an unverified scan entry and Vol. 34 has been added to the shopping list.
-  Source: https://www.viz.com/manga-books/manga/one-punch-man-volume-34-0/product/8996/paperback
-- Firefly Wedding: VIZ confirms Vol. 8 is on pre-order; the cafe owns Vol. 1.
-  Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040/paperback
+Research notes:
+- Local SearXNG was used for discovery, then the VIZ product pages and VIZ October/November 2026 release calendars were opened for verification.
+- The VIZ pages confirm the dates above. No additional newly released or upcoming volumes were added to the shopping lists this week beyond One-Punch Man Vol. 34.
+- Spot-checks completed for One-Punch Man and Firefly Wedding, both represented in the scan's current missing-volume data. No volume totals were inferred beyond the scan output.

@@ -1,34 +1,57 @@
-Weekly new-release findings (checked 2026-10-05; library scanned 2026-10-05)
+Weekly new-release findings (checked 2026-10-12; library scanned 2026-10-12)
 
 Library status:
-- 904 items total: 4 new and 0 removed since the 2026-09-28 scan.
-- New items: 5 Centimeters per Second; Firefly Wedding, Vols. 2-3; Guy She Was Interested in Wasn't a Guy at All, Vol. 1.
+- 904 items total: 0 new and 0 removed since the 2026-10-05 scan.
 - 110 verified missing-volume series/items and 43 unverified series.
 - No series has missing volumes inside the owned range.
 - Largest series in the scan: Yona of the Dawn (46 owned volumes), followed by Fruits Basket and Negima! (23 each), Komi Can't Communicate (22), Blue Exorcist and Dr. STONE (21 each), and Naruto (21).
 
-Newly released and missing from the cafe:
-- One-Punch Man, Vol. 34 - released September 15, 2026; cafe owns Vols. 1-2. Already present in needs-10-plus-books.txt from the previous release check.
+Newly released in roughly the last six months and still missing from the cafe:
+- Blue Exorcist, Vol. 32 - released April 7, 2026; cafe owns Vols. 1-21. Already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/calendar/2026/04
+- Firefly Wedding, Vol. 6 - released April 7, 2026; cafe owns Vols. 1-3. Already present in needs-3-9-books.txt.
+  Source: https://www.viz.com/calendar/2026/04
+- Chainsaw Man, Vol. 21 - released June 2, 2026; cafe owns Vols. 1-12. Already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/calendar/2026/06
+- Seraph of the End, Vol. 34 - released June 16, 2026; cafe owns Vol. 1. Already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/calendar/2026/06
+- Yona of the Dawn, Vol. 46 - released July 7, 2026; cafe owns Vol. 46, so it is not a missing volume.
+  Source: https://www.viz.com/manga-books/manga/yona-of-the-dawn-volume-46-0/product/8924/paperback
+- Firefly Wedding, Vol. 7 - released July 14, 2026; cafe owns Vols. 1-3. Already present in needs-3-9-books.txt.
+  Source: https://www.viz.com/calendar/2026/07
+- Kaiju No. 8, Vol. 16 - released September 1, 2026; cafe owns Vols. 1-5. Already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/manga-books/manga/kaiju-no-8-volume-16-0/product/8992/paperback
+- One-Punch Man, Vol. 34 - released September 15, 2026; cafe owns Vols. 1-2. Already present in needs-10-plus-books.txt.
   Source: https://www.viz.com/manga-books/manga/one-punch-man-volume-34-0/product/8996/paperback
 
-Largest-series check:
-- Yona of the Dawn, Vol. 46 - released July 7, 2026; the cafe owns Vol. 46, so no new missing volume from this release.
-  Source: https://www.viz.com/manga-books/manga/yona-of-the-dawn-volume-46-0/product/8924/paperback
-- Yona of the Dawn, Vol. 47 - coming January 5, 2027; the cafe owns Vols. 1-46 and Vol. 47 is already in needs-1-2-books.txt.
-  Source: https://www.viz.com/manga-books/manga/yona-of-the-dawn-volume-47/product/9161
-
-Other verified upcoming volumes checked:
-- Firefly Wedding, Vol. 8 - October 13, 2026; already in needs-3-9-books.txt.
+New releases coming soon:
+- Chainsaw Man, Vol. 22 - October 13, 2026; already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031/paperback
+- Firefly Wedding, Vol. 8 - October 13, 2026; already present in needs-3-9-books.txt.
   Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040/paperback
-- The Guy She Was Interested In Wasn't a Guy at All, Vol. 4 - October 27, 2026. Yen Press confirms Vols. 1-4; the cafe owns Vol. 1, and Vols. 2-4 were added to needs-3-9-books.txt after this spot-check.
+- The Guy She Was Interested in Wasn't a Guy at All, Vol. 4 - October 27, 2026; cafe owns Vol. 1 and Vols. 2-4 are already present in needs-3-9-books.txt.
   Source: https://yenpress.com/titles/9798855444209-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-4
-- Firefly Wedding, Vol. 9 - January 5, 2027; already in needs-3-9-books.txt.
+- Seraph of the End, Vol. 35 - November 10, 2026; already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/calendar/2026/11
+- Blue Exorcist, Vol. 33 - December 1, 2026; already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/manga-books/manga/blue-exorcist-volume-33-0/product/9098/paperback
+- Frieren: Beyond Journey's End, Vol. 15 - December 8, 2026; already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/calendar/2026/12
+- Firefly Wedding, Vol. 9 - January 5, 2027; already present in needs-3-9-books.txt.
   Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-9-0/product/9143/paperback
-- One-Punch Man, Vol. 35 - January 19, 2027; already in needs-10-plus-books.txt.
+- Yona of the Dawn, Vol. 47 - January 5, 2027; cafe owns Vols. 1-46 and it is already present in needs-1-2-books.txt.
+  Source: https://www.viz.com/manga-books/manga/yona-of-the-dawn-volume-47/product/9161
+- One-Punch Man, Vol. 35 - January 19, 2027; already present in needs-10-plus-books.txt.
   Source: https://www.viz.com/manga-books/manga/one-punch-man-volume-35-0/product/9147/paperback
 
+Unverified-series spot checks:
+- Bizenghast has 8 volumes; Vols. 2-8 are already present in needs-3-9-books.txt.
+  Source: https://en.wikipedia.org/wiki/Bizenghast
+- Hana-Kimi has 23 volumes; Vols. 2-23 are already present in needs-10-plus-books.txt.
+  Source: https://en.wikipedia.org/wiki/Hana-Kimi
+
 Research notes:
-- Local SearXNG was used for discovery first. VIZ and Yen Press product pages were then opened for verification.
-- No newly released volume was found that needed appending to a category file this week; the newly released One-Punch Man Vol. 34 was already present from the previous check.
-- Spot-check completed for the new unverified Guy She Was Interested in Wasn't a Guy at All entry. Yen Press confirms the official series has Vols. 1-4; Vols. 2-4 were added to needs-3-9-books.txt.
-- No volume totals or dates were inferred beyond the scan and the cited publisher pages.
+- Local SearXNG was attempted first, but returned no usable result entries for the bounded queries. VIZ calendar/product pages and Yen Press/Wikipedia pages were then opened directly.
+- No newly released volume needed appending to a category file this week. All verified release candidates checked were already represented in the shopping lists.
+- The three Guy She Was Interested in Wasn't a Guy at All missing lines were restored to needs-3-9-books.txt because the worktree had an uncommitted deletion that contradicted the existing research note and the library ownership record.
+- No volume totals or dates were inferred beyond the cited sources and the scan output.

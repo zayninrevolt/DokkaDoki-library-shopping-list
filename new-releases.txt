@@ -1,7 +1,7 @@
-Weekly new-release findings (checked 2026-10-26; library scanned 2026-10-26)
+Weekly new-release findings (checked 2026-11-02; library scanned 2026-11-02)
 
 Library status:
-- 904 items total: 0 new and 0 removed since the 2026-10-19 scan.
+- 904 items total: 0 new and 0 removed since the 2026-10-26 scan.
 - 110 verified missing-volume items and 43 unverified series.
 - No series has missing volumes inside the owned range.
 - Largest series in the scan: Yona of the Dawn (46 owned volumes), followed by Fruits Basket and Negima! (23 each), Komi Can't Communicate (22), Blue Exorcist and Dr. STONE (21 each), and Naruto (21).
@@ -15,13 +15,14 @@ Newly released in roughly the last six months and still missing from the cafe:
   Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040
 - Chainsaw Man, Vol. 22 - released October 13, 2026; cafe owns Vols. 1-12. Already present in needs-10-plus-books.txt.
   Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031
-- Yona of the Dawn, Vol. 46 - released July 7, 2026; cafe owns Vol. 46, so it is not a missing volume.
-  Source: https://www.viz.com/manga-books/manga/yona-of-the-dawn-volume-46-0/product/8924
+- No additional newly released missing volume was verified between the 2026-10-26 scan and this run.
 
 New releases coming soon:
+- Seraph of the End, Vol. 35 - November 10, 2026; cafe owns Vol. 1 and it is already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077
 - Blue Exorcist, Vol. 33 - December 1, 2026; already present in needs-10-plus-books.txt.
   Source: https://www.viz.com/manga-books/manga/blue-exorcist-volume-33-0/product/9098
-- Frieren: Beyond Journey's End, Vol. 15 - December 8, 2026; cafe owns Vols. 1-3 and it is already present in needs-10-plus-books.txt.
+- Frieren: Beyond Journey's End, Vol. 15 - December 8, 2026; already present in needs-10-plus-books.txt.
   Source: https://www.viz.com/manga-books/manga/frieren-beyond-journey-s-end-volume-15-0/product/9113
 - Yona of the Dawn, Vol. 47 - January 5, 2027; cafe owns Vols. 1-46 and it is already present in needs-1-2-books.txt.
   Source: https://www.viz.com/manga-books/manga/yona-of-the-dawn-volume-47-0/product/9161
@@ -29,6 +30,8 @@ New releases coming soon:
   Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-9-0/product/9143
 - One-Punch Man, Vol. 35 - January 19, 2027; already present in needs-10-plus-books.txt.
   Source: https://www.viz.com/manga-books/manga/one-punch-man-volume-35-0/product/9147
+- Chainsaw Man, Vol. 23 - February 2, 2027; already present in needs-10-plus-books.txt.
+  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-23-0/product/9173
 
 Unverified-series spot checks:
 - Bizenghast has 8 volumes; cafe owns Vol. 1 and Vols. 2-8 are already present in needs-3-9-books.txt.
@@ -39,7 +42,7 @@ Unverified-series spot checks:
   Source: https://en.wikipedia.org/wiki/Gachiakuta
 
 Research notes:
-- Local SearXNG was attempted first at http://192.168.0.69:8080. It returned usable discovery results, with DuckDuckGo reporting CAPTCHA; official VIZ pages and Wikipedia pages were then opened directly.
+- Local SearXNG was attempted first at http://searxng:8080. The searches and a known-positive control returned no results; Brave and Google CSE were rate-limited, DuckDuckGo returned CAPTCHA, and Wikipedia returned HTTP errors. Direct VIZ product pages and Wikipedia pages were then opened.
 - No newly released volume needed appending to a category file: every checked missing release was already listed.
 - The three Guy She Was Interested in Wasn't a Guy at All missing lines were restored to needs-3-9-books.txt because the worktree had a pre-existing deletion that contradicted the scan baseline and prior research record.
 - No volume totals or dates were inferred beyond the cited sources and the scan output.

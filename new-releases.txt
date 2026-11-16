@@ -1,49 +1,64 @@
-Weekly new-release findings (checked 2026-11-09; library scanned 2026-11-09)
+Weekly new-release findings (checked 2026-11-16; library scanned 2026-11-16)
 
 Library status:
-- 908 items total: 4 new and 0 removed since the 2026-11-02 scan.
-- New items: Firefly Wedding Vols. 4-6 and Villains Are Destined to Die Vol. 9.
+- 908 items total: 0 new and 0 removed since the 2026-11-09 scan.
 - No series has missing volumes inside the owned range.
 - 110 verified series have missing volumes; 43 remain unverified.
-- Largest series in the scan: Yona of the Dawn (46 owned volumes), followed by Fruits Basket and Negima! (23 each), Komi Can't Communicate (22), Blue Exorcist and Dr. STONE (21 each), and Naruto (21).
+- Largest owned series: Yona of the Dawn (46 volumes), followed by Fruits Basket and Negima! (23 each), Komi Can't Communicate (22), Blue Exorcist, Dr. STONE and Naruto (21 each).
 
 Newly released in roughly the last six months and still missing from the cafe:
-- Firefly Wedding, Vol. 8 - released October 13, 2026; cafe now owns Vols. 1-6. Already present in needs-3-9-books.txt.
-  Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040
-- Chainsaw Man, Vol. 22 - released October 13, 2026; cafe owns Vols. 1-12. Already present in needs-10-plus-books.txt.
-  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031
-- One-Punch Man, Vol. 34 - released September 15, 2026; cafe owns Vols. 1-2. Already present in needs-10-plus-books.txt.
+- One-Punch Man, Vol. 33 - May 19, 2026.
+  Source: https://www.viz.com/manga-books/manga/one-punch-man-volume-33-0/product/8835
+- Chainsaw Man, Vol. 21 - June 2, 2026.
+  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-21-0/product/8857
+- Seraph of the End, Vol. 34 - June 16, 2026.
+  Source: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-34-0/product/8880
+- Firefly Wedding, Vol. 7 - July 14, 2026.
+  Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-7-0/product/8901
+- Mao, Vol. 25 - August 11, 2026.
+  Source: https://www.viz.com/manga-books/manga/mao-volume-25-0/product/8954
+- D.Gray-man, Vol. 29 - August 4, 2026.
+  Source: https://www.viz.com/manga-books/manga/dgray-man-volume-29-0/product/8935
+- Kaiju No. 8, Vol. 16 - September 1, 2026. Final volume.
+  Source: https://www.viz.com/manga-books/manga/kaiju-no-8-volume-16-0/product/8992
+- One-Punch Man, Vol. 34 - September 15, 2026.
   Source: https://www.viz.com/manga-books/manga/one-punch-man-volume-34-0/product/8996
-- No additional newly released missing volume was verified for the current run. The VIZ November calendar's November 3 releases did not add a verified volume for a cafe series that was absent from the lists.
-  Source: https://www.viz.com/calendar/2026/11
+- Chainsaw Man, Vol. 22 - October 13, 2026.
+  Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031
+- Firefly Wedding, Vol. 8 - October 13, 2026.
+  Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040
+- Mao, Vol. 26 - November 10, 2026.
+  Source: https://www.viz.com/manga-books/manga/mao-volume-26-0/product/9071
+- Seraph of the End, Vol. 35 - November 10, 2026.
+  Source: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077
+
+All of the newly released missing volumes above were already present in the appropriate shopping-list file, so no category-file append was needed.
 
 New releases coming soon:
-- Seraph of the End, Vol. 35 - November 10, 2026; already present in needs-10-plus-books.txt.
-  Source: https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077
-- Blue Exorcist, Vol. 33 - December 1, 2026; already present in needs-10-plus-books.txt.
+- Blue Exorcist, Vol. 33 - December 1, 2026.
   Source: https://www.viz.com/manga-books/manga/blue-exorcist-volume-33-0/product/9098
-- Frieren: Beyond Journey's End, Vol. 15 - December 8, 2026; already present in needs-10-plus-books.txt.
+- Frieren: Beyond Journey's End, Vol. 15 - December 8, 2026.
   Source: https://www.viz.com/manga-books/manga/frieren-beyond-journey-s-end-volume-15-0/product/9113
-- Yona of the Dawn, Vol. 47 - January 5, 2027; cafe owns Vols. 1-46 and it is already present in needs-1-2-books.txt.
+- Yona of the Dawn, Vol. 47 - January 5, 2027.
   Source: https://www.viz.com/manga-books/manga/yona-of-the-dawn-volume-47-0/product/9161
-- Firefly Wedding, Vol. 9 - January 5, 2027; already present in needs-3-9-books.txt.
+- Firefly Wedding, Vol. 9 - January 5, 2027.
   Source: https://www.viz.com/manga-books/manga/firefly-wedding-volume-9-0/product/9143
-- One-Punch Man, Vol. 35 - January 19, 2027; already present in needs-10-plus-books.txt.
+- One-Punch Man, Vol. 35 - January 19, 2027.
   Source: https://www.viz.com/manga-books/manga/one-punch-man-volume-35-0/product/9147
-- Chainsaw Man, Vol. 23 - February 2, 2027; already present in needs-10-plus-books.txt.
+- Chainsaw Man, Vol. 23 - February 2, 2027.
   Source: https://www.viz.com/manga-books/manga/chainsaw-man-volume-23-0/product/9173
-- Calendar sources checked: https://www.viz.com/calendar/2026/11, https://www.viz.com/calendar/2026/12, https://www.viz.com/calendar/2027/01
+- Mao, Vol. 27 - February 9, 2027.
+  Source: https://www.viz.com/manga-books/manga/mao-volume-27-0/product/9186
 
 Unverified-series spot checks:
-- Bizenghast has 8 volumes; cafe owns Vol. 1 and Vols. 2-8 are already present in needs-3-9-books.txt.
+- Bizenghast has 8 volumes; Vols. 2-8 are already listed as missing.
   Source: https://en.wikipedia.org/wiki/Bizenghast
-- Hana-Kimi has 23 volumes; cafe owns Vol. 1 and Vols. 2-23 are already present in needs-10-plus-books.txt.
+- Hana-Kimi has 23 volumes; Vols. 2-23 are already listed as missing.
   Source: https://en.wikipedia.org/wiki/Hana-Kimi
-- Gachiakuta has 19 volumes as of July 2026; cafe owns Vol. 1 and Vols. 2-19 are already present in needs-10-plus-books.txt.
+- Gachiakuta has 19 volumes as of July 2026; Vols. 2-19 are already listed as missing.
   Source: https://en.wikipedia.org/wiki/Gachiakuta
 
 Research notes:
 - Local SearXNG was attempted first. Its configured upstreams were rate-limited or blocked, so direct authoritative VIZ pages and Wikipedia pages were used without repeating failed public searches.
-- No newly released volume needed appending to a category file: every checked missing release was already listed.
-- The scan's existing category changes were retained: Firefly Wedding Vols. 4-6 and Villains Are Destined to Die Vol. 9 were removed because the cafe now owns them.
-- No volume totals or dates were inferred beyond the cited sources and the scan output.
+- The scan's 0-new/0-removed result and existing category lists were retained.
+- Release dates and volume numbers were recorded only where the accessed source stated them.
